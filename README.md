@@ -90,4 +90,4 @@ For `classifier.ipynb`, it is designed to run on **Google Colab** with data stor
 
 ## Dataset
 
-The notebooks reference a dataset with 8 emotion classes. The project was developed using [RAVDESS](https://zenodo.org/record/1188976) or a similar speech emotion dataset — update `data_path.csv` to point to your local audio files.
+The notebooks reference a dataset with 8 emotion classes. Update `data_path.csv` to point to your local audio files.
